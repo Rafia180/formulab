@@ -1,0 +1,7 @@
+code,name,type,stabiliser
+F-101,"Liquid, glycerol 40%",Liquid,Glycerol
+F-102,"Liquid, sorbitol 30%",Liquid,Sorbitol
+F-103,"Liquid, no stabiliser (control)",Liquid,None
+F-104,"Granulate, coated",Granulate,Coating
+F-105,"Granulate, uncoated",Granulate,None
+F-106,"Liquid, glycerol 40% + salt",Liquid,Glycerol + salt
